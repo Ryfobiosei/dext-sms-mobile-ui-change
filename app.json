@@ -1,0 +1,8 @@
+{
+  "name": "KioskLearningRN",
+  "displayName": "KioskLearningRN",
+  "userInterfaceStyle": "automatic",
+  "plugins": [
+    "expo-asset"
+  ]
+}
